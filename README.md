@@ -8,5 +8,8 @@ Dieses Repository enthält mehrere Tableau-Arbeitsmappen zu unterschiedlichen Th
 
 Business Intelligence ist ein zentrales Element der modernen Wirtschaftsinformatik. Tableau als BI-Tool ermöglicht es, große und vielfältige Datenmengen zu analysieren, Muster zu erkennen und Entscheidungsgrundlagen zu schaffen. Die hier bereitgestellten Arbeitsmappen zeigen verschiedene Einsatzmöglichkeiten von BI im universitären und wirtschaftlichen Kontext.
 
+Link: https://public.tableau.com/app/profile/mark.detki/vizzes 
+
+
 
 *Erstellt im Rahmen des Studiums Wirtschaftsinformatik.*
